@@ -1,10 +1,14 @@
 # Exploratory-Data-Analysis-EDA-
 Python Project For Data Analysis- Exploratory Data Analysis (EDA) End-to-End Project
+
 Telco Customer Churn Prediction
-Overview
+
+Overview:
+
 This project involves predicting customer churn for a telecommunications company using a dataset from IBM Sample Data Sets. The goal is to analyze customer data and identify key factors that lead to churn, helping develop focused customer retention programs. This repository includes an exploratory data analysis (EDA) and steps toward building predictive models using machine learning techniques.
 
-Dataset
+Dataset:
+
 The dataset contains customer details such as demographic information, services signed up for, account information, and whether they have churned.
 
 Churn: Whether the customer left the company within the last month.
